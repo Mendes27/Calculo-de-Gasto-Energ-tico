@@ -24,7 +24,7 @@ HTML5, CSS3 e JavaScript para criação de uma interface responsiva e interativa
 
 Backend:
 
-Linguagem de programação (como Python, Java ou Node.js, dependendo da implementação).
+Linguagem de programação (Java).
 
 Frameworks ou bibliotecas adicionais podem ser usados para otimizar o desenvolvimento.
 
